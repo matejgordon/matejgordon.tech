@@ -22,3 +22,12 @@ html, body {
 .heading-text h1 {
     font-size: 5rem;
 }
+
+.heading-text i {
+    margin: 10px;
+    margin-top: 0;
+}
+
+.heading-text a {
+    color: inherit;
+}
