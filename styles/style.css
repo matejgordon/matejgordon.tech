@@ -5,7 +5,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #383737;
+    background-color: #121212;
 }
 
 .heading {
@@ -16,7 +16,7 @@ html, body {
 }
 
 .heading-text h1 {
-    font-size: 2em; /* Adjust the font size as needed */
+    font-size: 3em; /* Adjust the font size as needed */
 }
 
 .heading-text p {
