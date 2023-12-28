@@ -5,7 +5,8 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #121212;
+    background: url('../images/background/ascii-background.png'), #121212;
+    background-size: cover;
 }
 
 .heading {
