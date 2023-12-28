@@ -11,16 +11,16 @@ html, body {
     text-align: center;
 }
 
+.heading-text h1 {
+    font-size: 4em; /* This is just an example size; adjust as needed */
+}
+
 .heading-text {
     width: 100%;
     max-width: 50%; /* You can set a max-width to prevent the text block from getting too wide on larger screens */
     color: #fff;
     margin: auto;
     font-family: 'Open Sans', sans-serif;
-}
-
-.heading-text h1 {
-    font-size: 5rem;
 }
 
 .heading-text i {
