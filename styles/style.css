@@ -1,3 +1,4 @@
+/* Existing styles */
 html, body {
     height: 100%;
     margin: 0;
@@ -9,25 +10,21 @@ html, body {
 
 .heading {
     text-align: center;
+    width: 75%; /* Ensure the container takes full width */
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
 }
 
 .heading-text h1 {
-    font-size: 4em; /* This is just an example size; adjust as needed */
+    font-size: 2em; /* Adjust the font size as needed */
 }
 
-.heading-text {
-    width: 100%;
-    max-width: 50%; /* You can set a max-width to prevent the text block from getting too wide on larger screens */
-    color: #fff;
-    margin: auto;
-    font-family: 'Open Sans', sans-serif;
+.heading-text p {
+    font-size: 1em; /* Adjust the font size as needed */
 }
 
-.heading-text i {
-    margin: 10px;
-    margin-top: 0;
-}
-
-.heading-text a {
+.heading a{
     color: inherit;
+    margin: 10px;
+    text-decoration: none;
 }
