@@ -25,9 +25,11 @@ html, body {
 }
 
 .heading a{
+    display: inline;
     color: inherit;
     margin: 10px;
     text-decoration: none;
+    vertical-align: middle;
 }
 
 .heading img{
